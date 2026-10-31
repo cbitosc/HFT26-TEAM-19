@@ -1,0 +1,216 @@
+{
+ "image": "test_a_closeup.jpg",
+ "width": 500,
+ "height": 500,
+ "provenance": "Drawn by Claude by eye on an enlarged copy with a grid and checked on an overlay. Approximate (a few percent; more on this small image). Not a measurement. Review before trusting any score.",
+ "role": "held_out",
+ "marking_notes": {
+  "frame": "The photo sits inside a white and blue banner; the board occupies roughly x 45-455, y 97-403. Any box outside that is not on the board."
+ },
+ "parts": [
+  {
+   "name": "qfp_left",
+   "category": "ic_package",
+   "bbox": [
+    120,
+    118,
+    190,
+    208
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "qfp_right_large",
+   "category": "ic_package",
+   "bbox": [
+    315,
+    225,
+    455,
+    380
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "soic8_bottom",
+   "category": "ic_package",
+   "bbox": [
+    227,
+    327,
+    264,
+    371
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "small_ic_left_mid",
+   "category": "ic_package",
+   "bbox": [
+    100,
+    270,
+    123,
+    300
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "barcode_label",
+   "category": "other",
+   "bbox": [
+    318,
+    131,
+    454,
+    163
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "tan_cap_1",
+   "category": "capacitor",
+   "bbox": [
+    168,
+    251,
+    179,
+    276
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "tan_cap_2",
+   "category": "capacitor",
+   "bbox": [
+    181,
+    251,
+    193,
+    276
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "tan_cap_3",
+   "category": "capacitor",
+   "bbox": [
+    196,
+    251,
+    208,
+    276
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "tan_cap_4",
+   "category": "capacitor",
+   "bbox": [
+    211,
+    251,
+    223,
+    276
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "resistor_arrays_top",
+   "category": "resistor",
+   "bbox": [
+    232,
+    100,
+    305,
+    160
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "smd_diode_black",
+   "category": "other",
+   "bbox": [
+    262,
+    173,
+    305,
+    200
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "inductor_bottom_left",
+   "category": "other",
+   "bbox": [
+    46,
+    305,
+    88,
+    349
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "screw_center",
+   "category": "other",
+   "bbox": [
+    141,
+    322,
+    175,
+    356
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "screw_top_right",
+   "category": "other",
+   "bbox": [
+    357,
+    96,
+    393,
+    125
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "sot_left_edge",
+   "category": "ic_package",
+   "bbox": [
+    46,
+    211,
+    68,
+    240
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "black_smd_bottom_a",
+   "category": "other",
+   "bbox": [
+    65,
+    365,
+    93,
+    402
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "black_smd_bottom_b",
+   "category": "other",
+   "bbox": [
+    109,
+    365,
+    134,
+    402
+   ],
+   "ambiguous": true,
+   "marking": null
+  }
+ ]
+}

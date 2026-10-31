@@ -1,0 +1,92 @@
+{
+  "model": "huihui_ai/qwen3-vl-abliterated:4b-instruct",
+  "adapter": "ollama",
+  "MOCK": false,
+  "sampling": "defaults",
+  "max_tokens": 2048,
+  "tiles": {
+    "grid": "2x2",
+    "planned": 4,
+    "ok": 4,
+    "failed": 0,
+    "added": 17,
+    "duplicates": 9,
+    "cut_by_edge": 15,
+    "stopped": false
+  },
+  "attempts": 7,
+  "observations": 41,
+  "detail_pass": {
+    "attempted": 6,
+    "read": 0,
+    "unreadable": 6,
+    "failed": 0,
+    "stopped": false,
+    "latency_s": 16.872,
+    "wall_s": 16.909
+  },
+  "repeat_pass": null,
+  "reply_cut_off": false,
+  "warnings": [],
+  "dropped": [
+    "tile 1/4: 9 repeated 'capacitor' boxes with the same position as an earlier one looked like a repetition loop, so they were dropped",
+    "tile 1/4: 3 repeated 'resistor' boxes with the same position as an earlier one looked like a repetition loop, so they were dropped",
+    "tile 2/4: 1 repeated 'ic_package' box with the same position as an earlier one looked like a repetition loop, so it was dropped",
+    "tile 4/4: 1 repeated 'capacitor' box with the same position as an earlier one looked like a repetition loop, so it was dropped",
+    "tile 4/4: 3 repeated 'resistor' boxes with the same position as an earlier one looked like a repetition loop, so they were dropped"
+  ],
+  "coordinate_conventions_seen": [
+    "normalized_0_1000"
+  ],
+  "model_latency_s": 135.617,
+  "load_s": 0.043,
+  "wall_s": 152.579,
+  "peak_vram_mib": 5439,
+  "vram_note": "peak of nvidia-smi samples every 0.5 s; whole-GPU, includes other processes",
+  "score": {
+    "truth_parts_counted": 4,
+    "found": 4,
+    "recall_box": 1.0,
+    "recall_box_and_category": 1.0,
+    "missed": [],
+    "false_positives": [
+      "obs_005 ic_package",
+      "obs_009 capacitor",
+      "obs_010 capacitor",
+      "obs_011 capacitor",
+      "obs_012 capacitor",
+      "obs_013 capacitor",
+      "obs_014 capacitor",
+      "obs_015 capacitor",
+      "obs_016 capacitor",
+      "obs_018 capacitor",
+      "obs_020 capacitor",
+      "obs_022 capacitor",
+      "obs_023 capacitor",
+      "obs_024 resistor",
+      "obs_025 resistor",
+      "obs_026 resistor",
+      "obs_027 capacitor",
+      "obs_029 capacitor",
+      "obs_030 capacitor",
+      "obs_038 button",
+      "obs_040 ic_package"
+    ],
+    "poor_boxes": [
+      "obs_017 capacitor",
+      "obs_019 capacitor",
+      "obs_021 capacitor",
+      "obs_028 capacitor"
+    ],
+    "marking_claims_on_unreadable": [],
+    "markings": {
+      "readable_parts": 0,
+      "correct": [],
+      "near": [],
+      "wrong": [],
+      "not_read": [],
+      "not_found": [],
+      "details": []
+    }
+  }
+}

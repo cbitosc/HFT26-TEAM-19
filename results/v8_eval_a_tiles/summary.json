@@ -1,0 +1,16 @@
+[
+  {
+    "board": "test_a_closeup",
+    "role": "held_out",
+    "found": "4/4",
+    "box+category": 1.0,
+    "false_pos": 21,
+    "poor": 4,
+    "markings": "0 ok, 0 near, 0 wrong, 0 unread, 0 chip not found of 0",
+    "unreadable_claims": 0,
+    "cut_off": false,
+    "seconds": 152.579,
+    "detections": 41,
+    "by_look_alike": "-"
+  }
+]

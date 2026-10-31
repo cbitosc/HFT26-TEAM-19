@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "obs_000",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      317.0,
+      232.5,
+      456.5,
+      375.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: large black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "No visible text or markings on the IC package. The component has a square, dark gray body with multiple rows of pins around its perimeter, typical of a QFP (Pl\u9762"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_001",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      117.0,
+      128.0,
+      199.0,
+      203.49999999999997
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "Marking is too blurry and indistinct to be read with confidence."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_002",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      225.5,
+      325.0,
+      266.5,
+      376.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "The component is a surface-mount IC with 8 pins, likely a microcontroller or similar device. No readable text is visible on the top surface."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_003",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      261.0,
+      170.5,
+      311.0,
+      203.49999999999997
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "Component is too blurry to identify markings or type."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_004",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      44.5,
+      202.5,
+      68.0,
+      244.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_005",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      44.5,
+      273.5,
+      68.0,
+      302.5
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_006",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      99.0,
+      272.0,
+      123.5,
+      301.5
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_007",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      99.0,
+      362.5,
+      133.5,
+      405.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "Blurry, small, rectangular, mounted on green PCB. No legible text."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_008",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      67.0,
+      362.5,
+      97.0,
+      405.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: small black IC package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "Image is too blurry to identify the component or its marking."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_009",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      71.49999999999999,
+      198.0,
+      89.0,
+      261.5
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_010",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      85.0,
+      224.5,
+      98.0,
+      259.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_011",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      85.0,
+      198.0,
+      97.0,
+      259.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_012",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      116.0,
+      223.5,
+      134.5,
+      247.5
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_013",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      120.5,
+      265.0,
+      139.0,
+      300.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_014",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      137.0,
+      223.5,
+      157.5,
+      247.5
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_015",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      140.0,
+      265.0,
+      157.5,
+      300.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_016",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      153.5,
+      223.5,
+      173.49999999999997,
+      253.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_017",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      157.5,
+      265.0,
+      177.0,
+      300.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_018",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      178.5,
+      223.5,
+      199.0,
+      253.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_019",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      182.5,
+      265.0,
+      203.49999999999997,
+      300.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_020",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      209.0,
+      223.5,
+      229.5,
+      253.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_021",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      213.0,
+      265.0,
+      233.5,
+      300.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_022",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      244.5,
+      223.5,
+      265.5,
+      247.5
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_023",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      248.0,
+      265.0,
+      268.5,
+      300.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_024",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": "2000",
+    "candidates": [],
+    "bbox": [
+      210.496,
+      194.48,
+      241.67000000000002,
+      209.92399999999998
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: Surface-mount resistor",
+      "Marking read by the model (unverified): 2000"
+    ],
+    "limitations": [
+      "Value likely 2k\u03a9"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_025",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": "1000",
+    "candidates": [],
+    "bbox": [
+      245.10199999999998,
+      177.034,
+      257.114,
+      195.33800000000002
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: Surface-mount resistor",
+      "Marking read by the model (unverified): 1000"
+    ],
+    "limitations": [
+      "Value likely 1k\u03a9"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_026",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": "1000",
+    "candidates": [],
+    "bbox": [
+      213.356,
+      102.67399999999999,
+      223.07999999999998,
+      127.842
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: Surface-mount resistor",
+      "Marking read by the model (unverified): 1000"
+    ],
+    "limitations": [
+      "Value likely 1k\u03a9"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_027",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      241.95599999999996,
+      209.92399999999998,
+      258.83,
+      239.95399999999998
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: Surface-mount capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking too small or blurry"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_028",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": "1000",
+    "candidates": [],
+    "bbox": [
+      245.10199999999998,
+      99.814,
+      261.976,
+      128.70000000000002
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: Surface-mount capacitor",
+      "Marking read by the model (unverified): 1000"
+    ],
+    "limitations": [
+      "Value likely 1nF"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_029",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": "1000",
+    "candidates": [],
+    "bbox": [
+      241.95599999999996,
+      135.564,
+      258.83,
+      165.594
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: Surface-mount capacitor",
+      "Marking read by the model (unverified): 1000"
+    ],
+    "limitations": [
+      "Value likely 1nF"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_030",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": "1000",
+    "candidates": [],
+    "bbox": [
+      241.95599999999996,
+      170.742,
+      258.83,
+      198.19799999999998
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: Surface-mount capacitor",
+      "Marking read by the model (unverified): 1000"
+    ],
+    "limitations": [
+      "Value likely 1nF"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_031",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "other",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      316.388,
+      131.274,
+      455.95599999999996,
+      166.16599999999997
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: QR code label"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_032",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "other",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      354.14,
+      96.382,
+      394.75199999999995,
+      128.986
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: Screw hole with star head"
+    ],
+    "limitations": [
+      "Marking not readable in this view"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_033",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      165.594,
+      249.178,
+      179.60799999999998,
+      278.064
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Partially obscured by shadows"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_034",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      179.894,
+      249.178,
+      193.90800000000002,
+      278.064
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Partially obscured by shadows"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_035",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      194.194,
+      249.178,
+      208.208,
+      278.064
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Partially obscured by shadows"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_036",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      208.77999999999997,
+      249.178,
+      222.508,
+      278.064
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Partially obscured by shadows"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_037",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      44.61599999999999,
+      302.374,
+      82.082,
+      352.424
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Marking is blurry"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_038",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "button",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      94.38,
+      326.97,
+      118.11799999999998,
+      352.424
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: button"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Partially obscured by shadows"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_039",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "button",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      140.712,
+      318.962,
+      178.75,
+      357.0
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: button"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "Partially obscured by shadows"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_040",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      281.782,
+      361.004,
+      307.236,
+      385.028
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: Small black integrated circuit (IC) package"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "No text visible on top surface"
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  }
+]

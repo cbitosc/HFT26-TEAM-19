@@ -1,0 +1,108 @@
+[
+    {
+        "label": "microcontroller module",
+        "category": "microcontroller_module",
+        "bbox_2d": [454, 408, 553, 574],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "USB port",
+        "category": "usb_port",
+        "bbox_2d": [190, 448, 264, 565],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "USB port",
+        "category": "usb_port",
+        "bbox_2d": [735, 440, 802, 558],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "gpio_header",
+        "category": "gpio_header",
+        "bbox_2d": [236, 180, 759, 250],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "gpio_header",
+        "category": "gpio_header",
+        "bbox_2d": [236, 787, 759, 868],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [162, 648, 270, 779],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [717, 600, 835, 735],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 698, 310, 758],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 648, 310, 708],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 598, 310, 648],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 548, 310, 598],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 498, 310, 548],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 448, 310, 498],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 398, 310, 448],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "label": "capacitor",
+        "category": "capacitor",
+        "bbox_2d": [287, 348, 310, 398],
+        "readable": false,
+        "note": "Marking is too blurry to read"
+    },
+    {
+        "

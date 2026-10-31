@@ -1,0 +1,374 @@
+{
+ "image": "test_b_control.webp",
+ "width": 500,
+ "height": 333,
+ "provenance": "Drawn by Claude by eye on an enlarged copy with a grid and checked on an overlay. Approximate (a few percent; more on this small image). Not a measurement. Review before trusting any score.",
+ "role": "held_out",
+ "marking_notes": {
+  "markings": "Only the relay brand is legible. Everything else is too small or too soft to read."
+ },
+ "parts": [
+  {
+   "name": "relay_left",
+   "category": "other",
+   "bbox": [
+    111,
+    85,
+    148,
+    144
+   ],
+   "ambiguous": false,
+   "marking": "SCHNEIDER",
+   "marking_full": "Schneider Electric"
+  },
+  {
+   "name": "relay_right",
+   "category": "other",
+   "bbox": [
+    161,
+    85,
+    200,
+    144
+   ],
+   "ambiguous": false,
+   "marking": "SCHNEIDER",
+   "marking_full": "Schneider Electric"
+  },
+  {
+   "name": "terminal_3pin_left",
+   "category": "connector",
+   "bbox": [
+    108,
+    62,
+    151,
+    88
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "terminal_3pin_right",
+   "category": "connector",
+   "bbox": [
+    158,
+    62,
+    201,
+    88
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "terminal_6pin_top",
+   "category": "connector",
+   "bbox": [
+    208,
+    62,
+    294,
+    87
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "terminal_4pin_bottom",
+   "category": "connector",
+   "bbox": [
+    213,
+    242,
+    269,
+    266
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dc_jack",
+   "category": "connector",
+   "bbox": [
+    300,
+    65,
+    325,
+    104
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "connector_j9_white",
+   "category": "connector",
+   "bbox": [
+    79,
+    181,
+    98,
+    224
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "connector_j1_white",
+   "category": "connector",
+   "bbox": [
+    354,
+    235,
+    373,
+    265
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "connector_j10_white",
+   "category": "connector",
+   "bbox": [
+    430,
+    227,
+    448,
+    254
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "connector_left_white",
+   "category": "connector",
+   "bbox": [
+    122,
+    231,
+    137,
+    260
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "electrolytic_large",
+   "category": "capacitor",
+   "bbox": [
+    49,
+    138,
+    146,
+    183
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "electrolytic_small_a",
+   "category": "capacitor",
+   "bbox": [
+    194,
+    230,
+    211,
+    250
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "electrolytic_small_b",
+   "category": "capacitor",
+   "bbox": [
+    271,
+    240,
+    287,
+    267
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "to220_left",
+   "category": "ic_package",
+   "bbox": [
+    240,
+    175,
+    283,
+    235
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "to220_right",
+   "category": "ic_package",
+   "bbox": [
+    294,
+    175,
+    338,
+    235
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dip8_left",
+   "category": "ic_package",
+   "bbox": [
+    210,
+    207,
+    233,
+    235
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dip8_right_top",
+   "category": "ic_package",
+   "bbox": [
+    383,
+    123,
+    412,
+    151
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dip8_right_mid",
+   "category": "ic_package",
+   "bbox": [
+    383,
+    155,
+    412,
+    182
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dip8_right_bottom",
+   "category": "ic_package",
+   "bbox": [
+    383,
+    192,
+    412,
+    220
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "orange_cap_top",
+   "category": "capacitor",
+   "bbox": [
+    206,
+    111,
+    219,
+    127
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "orange_cap_c13",
+   "category": "capacitor",
+   "bbox": [
+    408,
+    231,
+    423,
+    245
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "trimpot_1",
+   "category": "other",
+   "bbox": [
+    333,
+    83,
+    348,
+    115
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "trimpot_2",
+   "category": "other",
+   "bbox": [
+    350,
+    83,
+    365,
+    115
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "trimpot_3",
+   "category": "other",
+   "bbox": [
+    370,
+    81,
+    385,
+    115
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "led_yellow",
+   "category": "led",
+   "bbox": [
+    338,
+    65,
+    348,
+    79
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "led_green",
+   "category": "led",
+   "bbox": [
+    367,
+    63,
+    377,
+    79
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "red_caps",
+   "category": "other",
+   "bbox": [
+    62,
+    117,
+    105,
+    138
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "heatsink_white",
+   "category": "other",
+   "bbox": [
+    154,
+    181,
+    197,
+    233
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "axial_resistors_cluster_left",
+   "category": "resistor",
+   "bbox": [
+    206,
+    138,
+    246,
+    173
+   ],
+   "ambiguous": true,
+   "marking": null
+  }
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "image": "ref_labelled.jpg",
+ "width": 2576,
+ "height": 1932,
+ "provenance": "Drawn by Claude by eye on the photo at full size and checked on an overlay. Approximate (a few percent). Not a measurement. Review before trusting any score.",
+ "role": "reference",
+ "marking_notes": {
+  "u3_28pin_driver": "Print is partly visible but not readable with confidence.",
+  "u4_soic8": "Print is too small to read with confidence."
+ },
+ "parts": [
+  {
+   "name": "u5_mt1379ge",
+   "category": "ic_package",
+   "bbox": [
+    857,
+    712,
+    1292,
+    1146
+   ],
+   "ambiguous": false,
+   "marking": "MT1379GE",
+   "marking_full": "MT1379GE 0335-CAB3 F30826"
+  },
+  {
+   "name": "u2_mt1336e",
+   "category": "ic_package",
+   "bbox": [
+    1512,
+    95,
+    1902,
+    392
+   ],
+   "ambiguous": false,
+   "marking": "MT1336E",
+   "marking_full": "MT1336E 0333-CUO Z25024"
+  },
+  {
+   "name": "u6_esmt_sdram",
+   "category": "ic_package",
+   "bbox": [
+    440,
+    542,
+    790,
+    790
+   ],
+   "ambiguous": false,
+   "marking": "M12L64164A",
+   "marking_full": "ESMT M12L64164A 7T"
+  },
+  {
+   "name": "u8_hynix_flash",
+   "category": "ic_package",
+   "bbox": [
+    1435,
+    745,
+    1630,
+    1092
+   ],
+   "ambiguous": false,
+   "marking": "HY29LV800BT",
+   "marking_full": "hynix HY29LV800BT 0250A"
+  },
+  {
+   "name": "u3_28pin_driver",
+   "category": "ic_package",
+   "bbox": [
+    543,
+    148,
+    730,
+    432
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "u4_soic8",
+   "category": "ic_package",
+   "bbox": [
+    297,
+    225,
+    385,
+    352
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "rn1_resistor_network",
+   "category": "resistor",
+   "bbox": [
+    822,
+    556,
+    872,
+    634
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "r23_resistor",
+   "category": "resistor",
+   "bbox": [
+    752,
+    355,
+    797,
+    384
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "r24_resistor",
+   "category": "resistor",
+   "bbox": [
+    752,
+    385,
+    797,
+    414
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "c119_small_cap",
+   "category": "capacitor",
+   "bbox": [
+    858,
+    1694,
+    886,
+    1736
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "c120_small_cap",
+   "category": "capacitor",
+   "bbox": [
+    1176,
+    1656,
+    1203,
+    1701
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "yellow_label",
+   "category": "other",
+   "bbox": [
+    2065,
+    333,
+    2222,
+    567
+   ],
+   "ambiguous": true,
+   "marking": "C3023068H3.1",
+   "marking_full": "C3023068H3.1 S.V:1000F6A4 04113203 P0310005853"
+  },
+  {
+   "name": "white_sticker_cs",
+   "category": "other",
+   "bbox": [
+    1448,
+    994,
+    1630,
+    1058
+   ],
+   "ambiguous": true,
+   "marking": "CS=5C1C"
+  },
+  {
+   "name": "u7_empty_flash_footprint",
+   "category": "ic_package",
+   "bbox": [
+    450,
+    855,
+    765,
+    1062
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "u17_empty_regulator_footprint",
+   "category": "ic_package",
+   "bbox": [
+    438,
+    1366,
+    550,
+    1518
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "u13_empty_footprint",
+   "category": "ic_package",
+   "bbox": [
+    1643,
+    1286,
+    1783,
+    1391
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "passives_r101_r109",
+   "category": "resistor",
+   "bbox": [
+    1798,
+    1491,
+    1968,
+    1591
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "passives_unpopulated_pads_right",
+   "category": "resistor",
+   "bbox": [
+    1983,
+    1491,
+    2228,
+    1591
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "inductors_l20_l27_l25",
+   "category": "other",
+   "bbox": [
+    2348,
+    178,
+    2418,
+    330
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "tp_pad_row_bottom",
+   "category": "gpio_header",
+   "bbox": [
+    1060,
+    1752,
+    1495,
+    1812
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "tp_pad_row_bottom_left",
+   "category": "gpio_header",
+   "bbox": [
+    635,
+    1826,
+    825,
+    1861
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "pad_row_right_a",
+   "category": "gpio_header",
+   "bbox": [
+    2438,
+    425,
+    2473,
+    545
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "pad_row_right_b",
+   "category": "gpio_header",
+   "bbox": [
+    2438,
+    620,
+    2478,
+    840
+   ],
+   "ambiguous": true,
+   "marking": null
+  }
+ ]
+}

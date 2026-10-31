@@ -1,0 +1,103 @@
+{
+  "model": "huihui_ai/qwen3-vl-abliterated:4b-instruct",
+  "adapter": "ollama",
+  "MOCK": false,
+  "sampling": "defaults",
+  "max_tokens": 2048,
+  "tiles": null,
+  "attempts": 1,
+  "observations": 10,
+  "detail_pass": {
+    "attempted": 6,
+    "read": 4,
+    "unreadable": 2,
+    "failed": 0,
+    "stopped": false,
+    "latency_s": 11.441,
+    "wall_s": 11.485
+  },
+  "repeat_pass": null,
+  "reply_cut_off": true,
+  "warnings": [
+    "The model's reply was cut off at the length limit, so parts after the cut are missing."
+  ],
+  "dropped": [
+    "16 'resistor' boxes of the same size chained edge to edge across the image look like a repetition loop, so they were dropped"
+  ],
+  "coordinate_conventions_seen": [
+    "normalized_0_1000"
+  ],
+  "model_latency_s": 28.586,
+  "load_s": 0.037,
+  "wall_s": 40.135,
+  "peak_vram_mib": 5439,
+  "vram_note": "peak of nvidia-smi samples every 0.5 s; whole-GPU, includes other processes",
+  "score": {
+    "truth_parts_counted": 11,
+    "found": 6,
+    "recall_box": 0.545,
+    "recall_box_and_category": 0.545,
+    "missed": [
+      "rn1_resistor_network",
+      "r23_resistor",
+      "r24_resistor",
+      "c119_small_cap",
+      "c120_small_cap"
+    ],
+    "false_positives": [
+      "obs_007 resistor",
+      "obs_008 resistor"
+    ],
+    "poor_boxes": [
+      "obs_009 resistor"
+    ],
+    "marking_claims_on_unreadable": [],
+    "markings": {
+      "readable_parts": 4,
+      "correct": [
+        "u5_mt1379ge",
+        "u2_mt1336e",
+        "u8_hynix_flash",
+        "u6_esmt_sdram"
+      ],
+      "near": [],
+      "wrong": [],
+      "not_read": [],
+      "not_found": [],
+      "details": [
+        {
+          "truth": "u5_mt1379ge",
+          "observation": "obs_001",
+          "expected": "MT1379GE",
+          "claimed": "MT1379GE 0335-CAB3 F30826",
+          "status": "tentative",
+          "result": "correct"
+        },
+        {
+          "truth": "u2_mt1336e",
+          "observation": "obs_000",
+          "expected": "MT1336E",
+          "claimed": "MT1336E 0333-CU0 Z25024",
+          "status": "tentative",
+          "result": "correct"
+        },
+        {
+          "truth": "u8_hynix_flash",
+          "observation": "obs_003",
+          "expected": "HY29LV800BT",
+          "claimed": "Immix KOR HY29LV800B-T- 0250A CS=5C1C",
+          "status": "tentative",
+          "result": "correct"
+        },
+        {
+          "truth": "u6_esmt_sdram",
+          "observation": "obs_002",
+          "expected": "M12L64164A",
+          "claimed": "ESMT M12L64164A SZB1C30C8 0325 7T",
+          "status": "tentative",
+          "result": "correct"
+        }
+      ]
+    }
+  }
+}
