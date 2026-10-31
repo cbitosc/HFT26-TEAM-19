@@ -1,0 +1,115 @@
+[
+  {
+    "label": "main IC chip",
+    "category": "ic_package",
+    "bbox_2d": [452, 410, 553, 570],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "USB port",
+    "category": "usb_port",
+    "bbox_2d": [190, 450, 260, 560],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "USB port",
+    "category": "usb_port",
+    "bbox_2d": [737, 442, 801, 550],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [701, 238, 764, 385],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 260, 385, 335],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 335, 385, 410],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 410, 385, 485],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 485, 385, 560],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 560, 385, 635],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 635, 385, 710],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 710, 385, 785],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 785, 385, 860],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 860, 385, 935],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [270, 935, 385, 1000],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [452, 785, 553, 860],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "connector",
+    "category": "connector",
+    "bbox_2d": [452, 860, 553, 935],
+    "readable": false,
+    "note": "text too small to read"
+  },
+  {
+    "label": "

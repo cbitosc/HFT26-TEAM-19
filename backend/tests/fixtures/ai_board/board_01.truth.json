@@ -1,0 +1,218 @@
+{
+ "image": "board_01.png",
+ "width": 2752,
+ "height": 1536,
+ "provenance": "Drawn by Claude by eye on the photo and checked on an overlay. Approximate (a few percent). Not a measurement. Review before trusting any score.",
+ "parts": [
+  {
+   "name": "mcu_qfp100",
+   "category": "ic_package",
+   "bbox": [
+    1245,
+    626,
+    1514,
+    888
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "usbc_left",
+   "category": "usb_port",
+   "bbox": [
+    530,
+    695,
+    716,
+    860
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "usbc_right",
+   "category": "usb_port",
+   "bbox": [
+    2016,
+    681,
+    2195,
+    853
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dc_jack_left",
+   "category": "connector",
+   "bbox": [
+    447,
+    1004,
+    750,
+    1211
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "dc_jack_right",
+   "category": "connector",
+   "bbox": [
+    1968,
+    929,
+    2298,
+    1142
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "header_bottom_2x20",
+   "category": "gpio_header",
+   "bbox": [
+    1280,
+    1225,
+    2078,
+    1335
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "header_2x4_right_angle",
+   "category": "gpio_header",
+   "bbox": [
+    1940,
+    378,
+    2105,
+    599
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "header_j5_6pin",
+   "category": "gpio_header",
+   "bbox": [
+    764,
+    1232,
+    998,
+    1300
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "label_barcode_top",
+   "category": "other",
+   "bbox": [
+    1459,
+    378,
+    1686,
+    488
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "label_barcode_right",
+   "category": "other",
+   "bbox": [
+    1768,
+    660,
+    1906,
+    881
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "tantalum_cap_a",
+   "category": "capacitor",
+   "bbox": [
+    832,
+    410,
+    888,
+    502
+   ],
+   "ambiguous": true,
+   "marking": null,
+   "note": "Grouping uncertain: four tan capacitors sit here and the boxes may split them differently."
+  },
+  {
+   "name": "tantalum_cap_b",
+   "category": "capacitor",
+   "bbox": [
+    911,
+    410,
+    963,
+    506
+   ],
+   "ambiguous": true,
+   "marking": null,
+   "note": "Grouping uncertain: four tan capacitors sit here and the boxes may split them differently."
+  },
+  {
+   "name": "tantalum_cap_c",
+   "category": "capacitor",
+   "bbox": [
+    993,
+    410,
+    1053,
+    506
+   ],
+   "ambiguous": true,
+   "marking": null,
+   "note": "Grouping uncertain: four tan capacitors sit here and the boxes may split them differently."
+  },
+  {
+   "name": "regulator_dpak_top",
+   "category": "ic_package",
+   "bbox": [
+    929,
+    537,
+    1073,
+    633
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "regulator_dpak_bottom",
+   "category": "ic_package",
+   "bbox": [
+    894,
+    1073,
+    1039,
+    1183
+   ],
+   "ambiguous": false,
+   "marking": null
+  },
+  {
+   "name": "header_holes_top_left",
+   "category": "gpio_header",
+   "bbox": [
+    750,
+    296,
+    1342,
+    358
+   ],
+   "ambiguous": true,
+   "marking": null
+  },
+  {
+   "name": "header_holes_top_right",
+   "category": "gpio_header",
+   "bbox": [
+    1417,
+    296,
+    2036,
+    351
+   ],
+   "ambiguous": true,
+   "marking": null
+  }
+ ],
+ "marking_notes": {
+  "mcu_qfp100": "Printed text is not legible in the photo (even at full size). A model that returns a marking for it is guessing."
+ }
+}

@@ -1,0 +1,304 @@
+[
+  {
+    "id": "obs_000",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": "MT1336E 0333-CU0 Z25024",
+    "candidates": [
+      {
+        "identity": "MT1336E",
+        "reference_id": null
+      }
+    ],
+    "bbox": [
+      1517.264,
+      88.872,
+      1916.5439999999999,
+      392.196
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: IC",
+      "Marking read from a close-up by the model (unverified): MT1336E 0333-CU0 Z25024"
+    ],
+    "limitations": [
+      "This is a memory chip (likely a DRAM or flash).",
+      "The first pass read 'MT1336E\\n0333-CUO\\nZ25024'; the close-up read 'MT1336E 0333-CU0 Z25024'",
+      "The part has a stylized 'M' logo above the marking. The text is clear and legible."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_001",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": "MT1379GE 0335-CAB3 F30826",
+    "candidates": [
+      {
+        "identity": "MT1379GE",
+        "reference_id": null
+      }
+    ],
+    "bbox": [
+      860.3840000000001,
+      709.044,
+      1288.0,
+      1141.8120000000001
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: IC",
+      "Marking read from a close-up by the model (unverified): MT1379GE 0335-CAB3 F30826"
+    ],
+    "limitations": [
+      "This is a memory chip (likely a DRAM or flash).",
+      "The first pass read 'MT1379GE\\n0335-CAB3\\nF30826'; the close-up read 'MT1379GE 0335-CAB3 F30826'",
+      "The text is legible, though the 'F30826' appears to be a manufacturing batch or revision code."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_002",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": "ESMT M12L64164A SZB1C30C8 0325 7T",
+    "candidates": [
+      {
+        "identity": "ESMT M12L64164A",
+        "reference_id": null
+      }
+    ],
+    "bbox": [
+      422.46400000000006,
+      573.804,
+      785.68,
+      788.2559999999999
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: IC",
+      "Marking read from a close-up by the model (unverified): ESMT M12L64164A SZB1C30C8 0325 7T"
+    ],
+    "limitations": [
+      "This is a memory chip (likely a DRAM or flash).",
+      "The first pass read 'ESMT'; the close-up read 'ESMT M12L64164A SZB1C30C8 0325 7T'",
+      "The part is a microcontroller module with a 40-pin SOIC package. The marking includes a part number, manufacturer code, and a date code."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_003",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": "Immix KOR HY29LV800B-T- 0250A CS=5C1C",
+    "candidates": [
+      {
+        "identity": "HY29LV800B-T-",
+        "reference_id": null
+      }
+    ],
+    "bbox": [
+      1416.8,
+      745.7520000000001,
+      1646.064,
+      1103.172
+    ],
+    "bbox_space": "original_px",
+    "status": "tentative",
+    "evidence": [
+      "Model saw: IC",
+      "Marking read from a close-up by the model (unverified): Immix KOR HY29LV800B-T- 0250A CS=5C1C"
+    ],
+    "limitations": [
+      "This is a memory chip (likely a DRAM or flash).",
+      "The first pass read 'CS=5CIC\\nHX4008A\\n050A'; the close-up read 'Immix KOR HY29LV800B-T- 0250A CS=5C1C'",
+      "The chip is a 256Mbit (32MB) NOR Flash memory device. The marking 'CS=5C1C' indicates the chip select line is connected to pin 5C1C on the board."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_004",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      548.688,
+      146.832,
+      759.92,
+      444.36
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: IC"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "This is a memory chip (likely a DRAM or flash).",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "Marking is too blurry to read. Part is a black rectangular IC with 20 pins, mounted on a green PCB. No clear text or symbols are legible."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_005",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "ic_package",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      283.36,
+      241.5,
+      383.824,
+      361.28400000000005
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: IC"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "This is a memory chip (likely a DRAM or flash).",
+      "Marking not readable even in a close-up. Retake with light from the side and no glare.",
+      "Marking is too blurry to read with confidence."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_006",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "capacitor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      425.04,
+      1367.856,
+      551.264,
+      1535.94
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: capacitor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "This is a capacitor with unknown value."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_007",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      1251.936,
+      724.5,
+      1298.304,
+      809.508
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "This is a resistor with unknown value."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_008",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      1483.776,
+      830.76,
+      1522.4160000000002,
+      923.496
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "This is a resistor with unknown value."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  },
+  {
+    "id": "obs_009",
+    "image_id": "smoke",
+    "frame_id": null,
+    "category": "resistor",
+    "marking_text": null,
+    "candidates": [],
+    "bbox": [
+      1558.48,
+      923.496,
+      1594.5439999999999,
+      1033.6200000000001
+    ],
+    "bbox_space": "original_px",
+    "status": "unknown",
+    "evidence": [
+      "Model saw: resistor"
+    ],
+    "limitations": [
+      "Marking not readable in this view",
+      "This is a resistor with unknown value."
+    ],
+    "reference_ids": [],
+    "model_score": null,
+    "model_score_note": "uncalibrated",
+    "source": "vlm"
+  }
+]

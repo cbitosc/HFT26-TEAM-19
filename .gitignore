@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+*.pyc
+smoke_out/
+smoke_*/
+photos/
+.env
+models/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+data/

@@ -1,0 +1,229 @@
+[
+    {
+        "label": "central integrated circuit",
+        "category": "ic_package",
+        "bbox_2d": [452, 408, 555, 577],
+        "readable": false,
+        "note": "marking is too small to read clearly"
+    },
+    {
+        "label": "USB port",
+        "category": "usb_port",
+        "bbox_2d": [190, 447, 266, 568],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "USB port",
+        "category": "usb_port",
+        "bbox_2d": [734, 437, 804, 554],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [163, 644, 270, 781],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [718, 601, 837, 744],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [258, 798, 362, 865],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [457, 810, 561, 867],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [718, 238, 766, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 190, 764, 238],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2d": [714, 238, 764, 397],
+        "readable": false,
+        "note": "text is not legible"
+    },
+    {
+        "label": "connector",
+        "category": "connector",
+        "bbox_2
